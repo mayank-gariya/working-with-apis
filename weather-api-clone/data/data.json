@@ -1,0 +1,29 @@
+[
+    {
+        "city": "Delhi",
+        "country": "India",
+        "temperature": 34.5,
+        "windspeed": 7.2,
+        "unit": "Celsius",
+        "total_taken": 2.3177242279052734,
+        "date_of_request": "2026-05-06"
+    },
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "temperature": 31.6,
+        "windspeed": 18.4,
+        "unit": "Celsius",
+        "total_taken": 2.338038921356201,
+        "date_of_request": "2026-05-06"
+    },
+    {
+        "city": "London",
+        "country": "United Kingdom",
+        "temperature": 11.4,
+        "windspeed": 14.0,
+        "unit": "Celsius",
+        "total_taken": 2.3674,
+        "date_of_request": "2026-05-06"
+    }
+]
